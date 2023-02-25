@@ -8,3 +8,7 @@ ____
 Генератор паролей с графическим интерфейсом.  
 [Ссылка](https://github.com/Dv-nn/Python-projects/tree/main/Watermark%20photo)   
 
+3. **Shop**  
+Интернет-магазин.  
+[Ссылка]()  
+
