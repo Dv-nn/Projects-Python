@@ -6,12 +6,16 @@ ____
   
 2. **Password generation**  
 Генератор паролей с графическим интерфейсом.  
-[Ссылка](https://github.com/Dv-nn/Python-projects/tree/main/Watermark%20photo)   
+[Ссылка](https://github.com/Dv-nn/Python-projects/tree/main/Watermark%20photo)
 
-3. **Shop**  
+3. **Bot**  
+Чат-бот 
+[Ссылка]() 
+
+4. **Shop**  
 Интернет-магазин.  
 [Ссылка]()  
 
-4. **Music pleer**  
+5. **Music pleer**  
 Музыкальный плеер.  
 [Ссылка]()  
