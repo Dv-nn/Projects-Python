@@ -1,4 +1,4 @@
-# ***Python projects***    
+# ***Python pet-projects***    
 ____
 1. **Watermark photo**  
 Установка водяных знаков на изображения.  
